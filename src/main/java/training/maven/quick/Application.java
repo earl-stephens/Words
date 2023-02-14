@@ -3,7 +3,7 @@ package training.maven.quick;
 import org.apache.commons.lang3.StringUtils;
 
 public class Application {
-  public Application {
+  public Application() {
 
   }
 
