@@ -1,4 +1,4 @@
-package training.maven.java;
+package training.maven.quick;
 
 import org.junit.Before;
 import org.junit.Ignore;
